@@ -1,2 +1,1 @@
-# RichPanel
-RichPanelassingment
+# Richpanel-Stripe-Application
